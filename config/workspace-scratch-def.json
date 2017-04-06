@@ -1,0 +1,10 @@
+{
+  "Company": "scorbel Company",
+  "Country": "US",
+  "LastName": "scorbel",
+  "Email": "scorbel@example.com",
+  "Edition": "Developer",
+  "OrgPreferences" : {
+    "S1DesktopEnabled" : true
+  }
+}
